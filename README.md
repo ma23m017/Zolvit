@@ -16,8 +16,7 @@ Before running the code, make sure you have the following installed:
 
 You can install the required libraries using:
 
-```bash
-pip install pandas jupyter
+"pip install pandas jupyter"
 
 
 ## How to Run
