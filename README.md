@@ -1,5 +1,25 @@
 # Zolvit
 
+
+# Invoice Data Processing and Validation
+
+This project processes and validates invoice data by extracting relevant financial and tax-related information and performing validation checks on key fields. The code handles invoice details such as `taxable_value`, `SGST`, `CGST`, `IGST` amounts, invoice numbers, and GSTINs for both suppliers and recipients.
+
+## Prerequisites
+
+Before running the code, make sure you have the following installed:
+
+- Python 3.x
+- Pandas
+- Regular expressions (`re` library, included with Python)
+- Jupyter Notebook (if running the notebook)
+
+You can install the required libraries using:
+
+```bash
+pip install pandas jupyter
+
+
 ## How to Run
 
 ### Step 1: Set Up the Environment
